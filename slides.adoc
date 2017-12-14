@@ -5,7 +5,7 @@
 :linkattrs:
 :idprefix:
 :imagedir: ./images
-:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0
 :icons: font
 :revealjs_theme: white
 // “default”, “simple”, “sky”, “beige”, “serif”, “solarized”, “blood”, “moon”, “night”, “black”, “league” or “white”
